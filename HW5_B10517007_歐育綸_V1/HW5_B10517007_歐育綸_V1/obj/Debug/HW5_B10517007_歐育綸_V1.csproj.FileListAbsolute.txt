@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\bin\Debug\HW5_B10517007_歐育綸_V1.exe.config
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\bin\Debug\HW5_B10517007_歐育綸_V1.exe
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\bin\Debug\HW5_B10517007_歐育綸_V1.pdb
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.Form1.resources
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.Properties.Resources.resources
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.exe
+C:\Users\user\Desktop\HW5_B10517007_歐育綸_V1\HW5_B10517007_歐育綸_V1\obj\Debug\HW5_B10517007_歐育綸_V1.pdb
